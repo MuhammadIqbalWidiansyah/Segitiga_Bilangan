@@ -1,1 +1,1 @@
-# Segitiga-Bilangan
+# Segitiga_Bilangan
